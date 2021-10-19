@@ -1,3 +1,3 @@
 # Elixir Image
 
-Docker Image for Elixir built with Alpine 3.9
+Docker Image for Elixir code base built with Alpine 3.12
